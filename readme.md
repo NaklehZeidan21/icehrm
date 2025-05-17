@@ -17,7 +17,7 @@ IceHrm is an [HRM software](https://icehrm.com) which enable companies to manage
 
 - Install docker on Mac, Windows or Linux [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 - Download the [latest version of IceHrm](https://github.com/gamonoid/icehrm/releases/latest) and extract it.
-- Alternatively you can cone the repo `git clone https://github.com/gamonoid/icehrm.git`
+- Alternatively you can clone the repo `git clone https://github.com/gamonoid/icehrm.git`
 ```
 cd icehrm
 npm run setup
